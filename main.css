@@ -26,3 +26,11 @@ footer{
 	padding-top: 250px;
 
 }
+
+span{
+	background-color: #C6E2FF;
+	margin-left:15px;
+	padding: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
